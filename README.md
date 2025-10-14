@@ -7,7 +7,7 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/amjadsharaf/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/amjad-sharaf-32776138a/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://stackoverflow.com/users/your-id" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://www.instagram.com/amjadsharaf/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
