@@ -12,7 +12,7 @@
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/amjad-sharaf-32776138a/" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
   
-  <code><a href="https://www.instagram.com/amjadsharaf/" title="Instagram Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"> Instagram</a></code>
+  <code><a href="https://www.instagram.com/amjad_shrf/" title="Instagram Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"> Instagram</a></code>
 </h5>
 
 <!-- 🧑‍💻 نبذة شخصية -->
