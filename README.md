@@ -65,7 +65,7 @@
 <!-- 👨‍💻 مستودعات مميزة -->
 <h2 align="center">👨‍💻 Featured Repositories 👨‍💻</h2>
 <p align="center">
-  <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AmjadSharaf&repo=portfolio&theme=react&border_color=61dafb&border_radius=10" alt="Portfolio"/>
+  <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AmjadSharaf&repo=portfolio&theme=react&border_color=61dafb&border_radius=10" alt="octaFitPro App"/>
   <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AmjadSharaf&repo=e-commerce-App-food-Delivery&theme=react&border_color=61dafb&border_radius=10" alt="e-commerce-App-food-Delivery"/>
 </p>
 
